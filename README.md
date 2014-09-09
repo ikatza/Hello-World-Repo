@@ -1,4 +1,4 @@
 Hello-World-Repo
 ================
 
-My first repository
+This is my first repository. I'm following github's instructions. 
